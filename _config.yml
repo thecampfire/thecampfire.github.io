@@ -1,20 +1,20 @@
-title:            Balzac
-tagline:          A beautiful theme.
+title:            Positive Sum Games
+tagline:          Tell me all your sins so I can save you through programmatic advertising.
 description:      Describe your website.
-canonical: http://jekyll.gtat.me
+canonical: http://positivesum.games
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Dragos ILINCA
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            "Entrepreneur & Technologist"
+  email:          d@positivesum.games
+  twitter:        dragosilinca
+  github:         thecampfire
+  instagram:      
+  dribbble:       
+  disqus:         dragosilinca
+  location:       "Vancouver, NYBC"
   # Plug in your disqus shortname!
 
 tools:
@@ -30,17 +30,14 @@ opengraph:
 links:
   - title: About
     url: /about
-  - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: On Medium
+    url: http://medium.com/positive-sum-games
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 
 kramdown:
@@ -48,7 +45,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  syntax_highlighter: coderay
 
   coderay:
     coderay_line_numbers:
